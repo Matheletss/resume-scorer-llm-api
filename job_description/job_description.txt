@@ -1,0 +1,20 @@
+We at Ketto, are searching for a Flutter Developer who is passionate about mobile technologies and will work
+with our team of talented engineers to design and build highly scalable mobile applications for our businesses.
+The developer will help the team in creating user-friendly mobile applications, adding new features to our
+applications, and optimizing existing features.
+Roles & Responsibilities:
+Design implement new app modules based on the product requirements
+Work on existing applications as well as designing and developing new products
+Create reusable, effective, and scalable code
+Maintain the codebase
+What you bring to the table:
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+2 to 5 years of experience in Flutter.
+Experience building and deploying Flutter applications
+Ability to translate designs into code
+Knowledge of dart and other oops languages.
+Preferred skills:
+Experience with third-party libraries and APIs (pub.dev)
+Proficient understanding of code versioning tools, such as Git
+Familiarity with cross platform mobile development
+Publish android/iOS application to the play store and App Store

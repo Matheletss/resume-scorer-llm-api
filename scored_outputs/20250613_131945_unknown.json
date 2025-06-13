@@ -1,0 +1,134 @@
+{
+  "overallScore": 25,
+  "evaluation": [
+    {
+      "title": "Skill Match",
+      "score": 20,
+      "description": "Limited relevant skills for Flutter development; strong in Python and ML but lacks Flutter and Dart experience.",
+      "icon": "Target",
+      "skills": [
+        "Python",
+        "C/C++",
+        "Java",
+        "SQL",
+        "Docker",
+        "Git/GitHub"
+      ],
+      "detailedAnalysis": {
+        "title": "Technical Skills Analysis",
+        "subtitle": "Limited relevant skills for Flutter development; strong in Python and ML but lacks Flutter and Dart experience.",
+        "matchedSkills": [],
+        "visualizationTools": [],
+        "dataProcessingAndQuerying": [],
+        "statisticalAndAnalyticalTools": []
+      }
+    },
+    {
+      "title": "Work Experience",
+      "score": 30,
+      "description": "Internships in AI/ML and education, but no direct experience in mobile app development or Flutter.",
+      "icon": "Briefcase",
+      "skills": [
+        "Research Intern",
+        "Subject Matter Expert"
+      ],
+      "detailedAnalysis": {
+        "title": "Work Experience Evaluation",
+        "subtitle": "Internships in AI/ML and education, but no direct experience in mobile app development or Flutter.",
+        "relevantExperiences": [
+          {
+            "title": "Research Intern",
+            "company": "The Linux Foundation India",
+            "match": 20,
+            "description": "Worked on AI/ML use cases but not related to mobile development."
+          },
+          {
+            "title": "Subject Matter Expert",
+            "company": "Chegg India",
+            "match": 40,
+            "description": "Provided insights on statistical concepts, not relevant to mobile app development."
+          }
+        ],
+        "experienceDepth": "Experience is primarily in research and education, lacking practical mobile development roles.",
+        "impactAssessment": "Limited impact in mobile app development context."
+      }
+    },
+    {
+      "title": "Semantic Scoring",
+      "score": 15,
+      "description": "Minimal contextual overlap with mobile app development; focused on AI/ML.",
+      "icon": "Brain",
+      "skills": [
+        "AI/ML",
+        "Statistical Concepts"
+      ],
+      "detailedAnalysis": {
+        "title": "Content Analysis",
+        "subtitle": "Minimal contextual overlap with mobile app development; focused on AI/ML.",
+        "keywordAlignment": "No relevant keywords related to Flutter or mobile development.",
+        "highMatchKeywords": [],
+        "partialMatchKeywords": [],
+        "contextRelevance": "Strong focus on AI/ML, lacking any mobile development context."
+      }
+    },
+    {
+      "title": "Project Relevancy",
+      "score": 20,
+      "description": "Projects are focused on AI/ML and not relevant to mobile app development.",
+      "icon": "FileText",
+      "skills": [
+        "Machine Learning",
+        "Data Anonymization"
+      ],
+      "detailedAnalysis": {
+        "title": "Experience Analysis",
+        "subtitle": "Projects are focused on AI/ML and not relevant to mobile app development.",
+        "mostRelevantProjects": [],
+        "impactAnalysis": "Projects do not demonstrate any mobile app development experience."
+      }
+    },
+    {
+      "title": "Educational Background",
+      "score": 60,
+      "description": "Ongoing integrated master's degree in Mathematics & Computing; relevant but not directly in Computer Science.",
+      "icon": "GraduationCap",
+      "skills": [
+        "Mathematics",
+        "Computing"
+      ],
+      "detailedAnalysis": {
+        "title": "Academic Qualifications",
+        "subtitle": "Ongoing integrated master's degree in Mathematics & Computing; relevant but not directly in Computer Science.",
+        "degrees": [
+          {
+            "degree": "Integrated Master’s of Science - Mathematics & Computing",
+            "institution": "Birla Institute of Technology Mesra",
+            "period": "2022 - 2027 (Ongoing)",
+            "match": "Moderate"
+          }
+        ],
+        "certifications": []
+      }
+    },
+    {
+      "title": "Interpersonal Skills",
+      "score": 30,
+      "description": "Demonstrates some communication and teamwork skills but lacks evidence of leadership or collaboration in mobile development.",
+      "icon": "Users",
+      "skills": [
+        "Communication",
+        "Teamwork"
+      ],
+      "detailedAnalysis": {
+        "title": "Soft Skills Assessment",
+        "subtitle": "Demonstrates some communication and teamwork skills but lacks evidence of leadership or collaboration in mobile development.",
+        "identifiedSkills": {
+          "strongEvidence": [],
+          "moderateEvidence": []
+        },
+        "evidenceSources": [],
+        "softSkillsPortfolio": []
+      }
+    }
+  ]
+}
