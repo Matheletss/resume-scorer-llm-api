@@ -1,0 +1,140 @@
+{
+  "overallScore": 32,
+  "candidateData": {
+    "name": "Jayesh Krishna",
+    "email": "210020058@iitb.ac.in",
+    "phone": "+91 8291174256",
+    "location": "Mumbai, India",
+    "jobTitle": "Flutter Developer"
+  },
+  "evaluation": [
+    {
+      "title": "Skill Match",
+      "score": 20,
+      "description": "Limited relevant skills for Flutter development; lacks experience in Dart and mobile application development.",
+      "icon": "Target",
+      "skills": [
+        "HTML",
+        "C++",
+        "Python",
+        "MATLAB",
+        "Excel",
+        "Powerpoint",
+        "Word",
+        "VASP",
+        "Fortran",
+        "AutoCAD",
+        "OpenFOAM"
+      ],
+      "detailedAnalysis": {
+        "title": "Technical Skills Analysis",
+        "subtitle": "Limited relevant skills for Flutter development; lacks experience in Dart and mobile application development.",
+        "matchedSkills": [],
+        "visualizationTools": [],
+        "dataProcessingAndQuerying": [],
+        "statisticalAndAnalyticalTools": []
+      }
+    },
+    {
+      "title": "Work Experience",
+      "score": 25,
+      "description": "Internships primarily in product and process engineering; no direct experience in mobile app development.",
+      "icon": "Briefcase",
+      "skills": [
+        "Product Management",
+        "Process Engineering",
+        "Market Research"
+      ],
+      "detailedAnalysis": {
+        "title": "Work Experience Evaluation",
+        "subtitle": "Internships primarily in product and process engineering; no direct experience in mobile app development.",
+        "relevantExperiences": [],
+        "experienceDepth": "Experience in product and process engineering roles, but lacks direct relevance to mobile application development.",
+        "impactAssessment": "Demonstrated analytical skills but not applicable to Flutter development."
+      }
+    },
+    {
+      "title": "Semantic Scoring",
+      "score": 30,
+      "description": "Some overlap in analytical skills but lacks direct relevance to mobile technologies.",
+      "icon": "Brain",
+      "skills": [
+        "Market Research",
+        "Data Analysis"
+      ],
+      "detailedAnalysis": {
+        "title": "Content Analysis",
+        "subtitle": "Some overlap in analytical skills but lacks direct relevance to mobile technologies.",
+        "keywordAlignment": "Experience in data analysis and market research, but lacks keywords related to Flutter, Dart, or mobile development.",
+        "highMatchKeywords": [],
+        "partialMatchKeywords": [
+          "data analysis",
+          "market research"
+        ],
+        "contextRelevance": "Limited relevance to mobile application development."
+      }
+    },
+    {
+      "title": "Project Relevancy",
+      "score": 20,
+      "description": "Projects focus on finance and engineering; no mobile application development projects.",
+      "icon": "FileText",
+      "skills": [
+        "Finance",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "detailedAnalysis": {
+        "title": "Experience Analysis",
+        "subtitle": "Projects focus on finance and engineering; no mobile application development projects.",
+        "mostRelevantProjects": [],
+        "impactAnalysis": "Projects demonstrate analytical skills but do not align with mobile app development."
+      }
+    },
+    {
+      "title": "Educational Background",
+      "score": 60,
+      "description": "Bachelor's degree in Chemical Engineering; lacks a degree in Computer Science or related field.",
+      "icon": "GraduationCap",
+      "skills": [
+        "Chemical Engineering"
+      ],
+      "detailedAnalysis": {
+        "title": "Academic Qualifications",
+        "subtitle": "Bachelor's degree in Chemical Engineering; lacks a degree in Computer Science or related field.",
+        "degrees": [
+          {
+            "degree": "Bachelor of Technology (B.Tech.) in Chemical Engineering",
+            "institution": "Indian Institute of Technology Bombay",
+            "period": "2021 – 2025",
+            "match": "Low"
+          }
+        ],
+        "certifications": []
+      }
+    },
+    {
+      "title": "Interpersonal Skills",
+      "score": 40,
+      "description": "Demonstrates teamwork and communication skills but lacks leadership in tech-focused environments.",
+      "icon": "Users",
+      "skills": [
+        "Teamwork",
+        "Communication"
+      ],
+      "detailedAnalysis": {
+        "title": "Soft Skills Assessment",
+        "subtitle": "Demonstrates teamwork and communication skills but lacks leadership in tech-focused environments.",
+        "identifiedSkills": {
+          "strongEvidence": [],
+          "moderateEvidence": []
+        },
+        "evidenceSources": [],
+        "softSkillsPortfolio": [
+          "Teamwork",
+          "Communication"
+        ]
+      }
+    }
+  ]
+}

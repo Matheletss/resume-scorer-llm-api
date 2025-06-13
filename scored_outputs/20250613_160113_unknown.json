@@ -1,0 +1,131 @@
+{
+  "overallScore": 25,
+  "candidateData": {
+    "name": "Harsh Arora",
+    "email": "harsh.22087@sscbs.du.ac.in",
+    "phone": "+91 96 250 68 100",
+    "location": "Delhi, India",
+    "jobTitle": "Flutter Developer"
+  },
+  "evaluation": [
+    {
+      "title": "Skill Match",
+      "score": 20,
+      "description": "Limited relevant skills for Flutter development; lacks experience in Dart and mobile app development.",
+      "icon": "Target",
+      "skills": [
+        "Microsoft Suite",
+        "Python",
+        "SPSS",
+        "Power BI",
+        "Canva"
+      ],
+      "detailedAnalysis": {
+        "title": "Technical Skills Analysis",
+        "subtitle": "Limited relevant skills for Flutter development; lacks experience in Dart and mobile app development.",
+        "matchedSkills": [],
+        "visualizationTools": [],
+        "dataProcessingAndQuerying": [],
+        "statisticalAndAnalyticalTools": []
+      }
+    },
+    {
+      "title": "Work Experience",
+      "score": 15,
+      "description": "Internships do not align with mobile development; no relevant experience in Flutter or app development.",
+      "icon": "Briefcase",
+      "skills": [
+        "Internship Experience",
+        "Research",
+        "Strategy"
+      ],
+      "detailedAnalysis": {
+        "title": "Work Experience Evaluation",
+        "subtitle": "Internships do not align with mobile development; no relevant experience in Flutter or app development.",
+        "relevantExperiences": [],
+        "experienceDepth": "Internships focused on strategy and finance, lacking technical development experience.",
+        "impactAssessment": "No demonstrated ownership of mobile application projects."
+      }
+    },
+    {
+      "title": "Semantic Scoring",
+      "score": 30,
+      "description": "Minimal contextual relevance to mobile app development; lacks keywords related to Flutter and Dart.",
+      "icon": "Brain",
+      "skills": [
+        "Research",
+        "Strategy",
+        "Business Analysis"
+      ],
+      "detailedAnalysis": {
+        "title": "Content Analysis",
+        "subtitle": "Minimal contextual relevance to mobile app development; lacks keywords related to Flutter and Dart.",
+        "keywordAlignment": "No alignment with mobile development terminology or frameworks.",
+        "highMatchKeywords": [],
+        "partialMatchKeywords": [],
+        "contextRelevance": "No relevant context for mobile application development."
+      }
+    },
+    {
+      "title": "Project Relevancy",
+      "score": 20,
+      "description": "Projects are not related to mobile app development; focus on business and environmental analysis.",
+      "icon": "FileText",
+      "skills": [
+        "Business Analysis",
+        "Project Management"
+      ],
+      "detailedAnalysis": {
+        "title": "Experience Analysis",
+        "subtitle": "Projects are not related to mobile app development; focus on business and environmental analysis.",
+        "mostRelevantProjects": [],
+        "impactAnalysis": "Projects do not demonstrate skills applicable to mobile app development."
+      }
+    },
+    {
+      "title": "Educational Background",
+      "score": 40,
+      "description": "Currently pursuing a degree in management; lacks a degree in computer science or related field.",
+      "icon": "GraduationCap",
+      "skills": [
+        "Management Studies"
+      ],
+      "detailedAnalysis": {
+        "title": "Academic Qualifications",
+        "subtitle": "Currently pursuing a degree in management; lacks a degree in computer science or related field.",
+        "degrees": [
+          {
+            "degree": "Bachelor of Management Studies",
+            "institution": "Shaheed Sukhdev College of Business Studies, University of Delhi",
+            "period": "Pursuing",
+            "match": "Low"
+          }
+        ],
+        "certifications": []
+      }
+    },
+    {
+      "title": "Interpersonal Skills",
+      "score": 30,
+      "description": "Demonstrates leadership and teamwork in internships; however, lacks technical collaboration experience.",
+      "icon": "Users",
+      "skills": [
+        "Teamwork",
+        "Leadership"
+      ],
+      "detailedAnalysis": {
+        "title": "Soft Skills Assessment",
+        "subtitle": "Demonstrates leadership and teamwork in internships; however, lacks technical collaboration experience.",
+        "identifiedSkills": {
+          "strongEvidence": [],
+          "moderateEvidence": []
+        },
+        "evidenceSources": [],
+        "softSkillsPortfolio": [
+          "Leadership",
+          "Teamwork"
+        ]
+      }
+    }
+  ]
+}
